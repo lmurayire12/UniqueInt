@@ -46,7 +46,7 @@ class UniqueIntProcessor:
 
 
 if __name__ == "__main__":
-    base_dir = 'C:\\Users\\HP\\Desktop\\UniqueInt\\dsa\\hw01'
+    base_dir = '\UniqueInt\dsa\hw01'
     sample_inputs_dir = os.path.join(base_dir, 'sample_inputs')
     sample_results_dir = os.path.join(base_dir, 'sample_results')
 
